@@ -3,6 +3,7 @@
     "name": "reactnative_nlw_heat",
     "slug": "reactnative_nlw_heat",
     "version": "1.0.0",
+    "scheme": "reactnative_nlw_heat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
